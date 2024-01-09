@@ -87,4 +87,40 @@ header.primary, .user {
 
 a.logo img {
   width: 170px;
+}
+
+/* Mobile Nav */
+aside {
+  position: fixed;
+  z-index: 999;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  background: var(--primary-color);
+  width: 40%;
+  padding: 3em;
+  text-align: right;
+  transition: transform 0.6s;
+  transform: translateX(0);
+}
+aside a {
+  color: white;
+  font-size: 2.6rem;
+}
+aside img {
+  background: white;
+  width: 30px;
+  height: 30px;
+  border-radius: 0.3em;
+  cursor: pointer;
+}
+aside ul {
+  margin-top: 6em;
+}
+aside ul li {
+  margin-bottom: 1.5em;
+}
+aside ul li a {
+  color: white;
+  font-size: 2.6rem;
 }/*# sourceMappingURL=main.css.map */
