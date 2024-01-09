@@ -203,5 +203,20 @@ h1 {
         gap: 2em;
     }
 
+    aside {
+        position: inherit;
+        height: auto;
+        background: unset;
+        width: auto;
+        padding: 2em;
+        margin-top: 2em;
+        text-align: inherit;
+        transform: unset;
+        transition: unset;
+        background-color: var(--secondary-color);
+        border-radius: 1em;
 
+      
+        
+    }
 }
