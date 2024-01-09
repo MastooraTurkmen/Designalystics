@@ -77,10 +77,24 @@ aside {
             margin-bottom: 1.5em;
         }
     }
-
 }
 
 
 .toggole-menu{
     transform: translateX(0);
+}
+
+
+/* Sales Stats*/
+
+
+.sales, .extra-stats{
+    padding: 3.8em;
+    color: white;
+    border-radius: 1em;
+    margin-top: 2em;
+}
+
+.sales {
+    background: var(--primary-color);
 }
