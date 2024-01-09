@@ -267,4 +267,11 @@ h1 {
   aside nav ul li img {
     display: block !important;
   }
+  /* Main Area */
+  main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, auto);
+    gap: 3em;
+  }
 }/*# sourceMappingURL=main.css.map */
