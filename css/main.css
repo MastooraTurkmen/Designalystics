@@ -54,4 +54,21 @@ svg {
   .hide-tablet {
     display: none;
   }
+}
+/* Header */
+header.primary {
+  display: flex;
+  justify-content: space-between;
+}
+
+header svg {
+  width: 42px;
+}
+
+.user img {
+  width: 30px;
+  height: 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
 }/*# sourceMappingURL=main.css.map */
