@@ -172,6 +172,7 @@ h1{
     .user-left{
         display: flex;
         align-items: center;
+        gap: 1em;
 
         img{
             width: 48px;
@@ -179,5 +180,9 @@ h1{
             object-fit: cover;
             border-radius: 50%;
         }
+    }
+
+    .user-left strong{
+        display: block;
     }
 }
