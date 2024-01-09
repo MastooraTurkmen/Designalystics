@@ -344,7 +344,17 @@ h1 {
         color: white;
         border-radius: .3em;
 
-        
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            h3 {
+                font-size: 1.6rem;
+                margin: 0;
+            }
+
+            
     }
 
 
