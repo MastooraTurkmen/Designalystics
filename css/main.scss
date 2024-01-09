@@ -219,5 +219,15 @@ h1{
         transition: unset;
         background-color: var(--secondary-color);
         border-radius: 1em;
+        
+        a{
+            font-size: 1.8em;
+            
+        }
+        
+        img{
+            background: unset;
+            cursor: unset;
+        }
     }
 }

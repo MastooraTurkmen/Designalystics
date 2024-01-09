@@ -244,4 +244,11 @@ h1 {
     background-color: var(--secondary-color);
     border-radius: 1em;
   }
+  aside a {
+    font-size: 1.8em;
+  }
+  aside img {
+    background: unset;
+    cursor: unset;
+  }
 }/*# sourceMappingURL=main.css.map */
