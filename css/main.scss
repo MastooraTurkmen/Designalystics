@@ -337,7 +337,15 @@ h1 {
         gap: 5em;
     }
 
-    
+    .premium {
+        display: block;
+        background: var(--inner-panel-color);
+        padding: 2em;
+        color: white;
+        border-radius: .3em;
+
+        
+    }
 
 
 }

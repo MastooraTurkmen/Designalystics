@@ -339,4 +339,11 @@ h1 {
     align-items: center;
     gap: 5em;
   }
+  .premium {
+    display: block;
+    background: var(--inner-panel-color);
+    padding: 2em;
+    color: white;
+    border-radius: 0.3em;
+  }
 }/*# sourceMappingURL=main.css.map */
