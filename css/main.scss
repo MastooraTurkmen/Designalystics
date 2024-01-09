@@ -255,6 +255,10 @@ h1 {
         gap: 3em;
     }
 
+    .earnings, .customers {
+        grid-column: 1 /3;
+    }
+
 
 
 }
