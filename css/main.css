@@ -181,4 +181,32 @@ h1 {
   background: var(--secondry-color);
   border-radius: 1em;
   padding: 2.8em;
+}
+
+/*Custumers*/
+.customers ul {
+  display: grid;
+  margin-top: 2em;
+  grid-template-columns: repeat(2, 1fr);
+  color: white;
+  gap: 2em;
+}
+.customers ul li {
+  display: flex;
+  justify-content: space-between;
+}
+.customers ul li .cta-btn img {
+  width: 50px;
+  height: 50px;
+}
+.customers ul .user-left {
+  display: flex;
+  align-items: center;
+}
+.customers ul .user-left img {
+  width: 48px;
+  height: 48px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
 }/*# sourceMappingURL=main.css.map */
