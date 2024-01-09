@@ -321,44 +321,4 @@ h1 {
   aside nav ul li img {
     display: block !important;
   }
-  /* Main Area */
-  main {
-    grid-template-columns: 1.2fr 2fr;
-    grid-template-rows: repeat(3, auto);
-    gap: 3em;
-    flex-grow: 2;
-  }
-  .extra-stats {
-    padding: 3em;
-    display: flex;
-    justify-content: center;
-    border: 1px solid var(--border-color);
-  }
-  .extra-stats ul {
-    display: flex;
-    align-items: center;
-    gap: 5em;
-  }
-  .premium {
-    display: block;
-    background: var(--inner-panel-color);
-    padding: 2em;
-    color: white;
-    border-radius: 0.3em;
-  }
-  .premium header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .premium header h3 {
-    font-size: 1.6rem;
-    margin: 0;
-  }
-  .premium header img {
-    width: 20px;
-  }
-  .premium p {
-    line-height: 150%;
-  }
 }/*# sourceMappingURL=main.css.map */
