@@ -71,4 +71,20 @@ header svg {
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+header.primary, .user {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+a.logo img {
+  width: 170px;
 }/*# sourceMappingURL=main.css.map */
