@@ -267,3 +267,29 @@ h1 {
     }
 
 }
+
+
+/* Desktop */ 
+
+@media only screen and (min-width: 1000px) {
+
+    .wrapper {
+        max-width: 1200px;
+        margin: 3em auto;
+        padding: 0 2em;
+    }
+
+    .col2 {
+        display: flex;
+        gap: 2em;
+    }
+
+    aside {
+        width: 10%;
+        flex-grow: 3;
+        min-width:250px;
+        padding: 2em;
+
+
+
+}
