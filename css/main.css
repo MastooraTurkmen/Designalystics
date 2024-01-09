@@ -244,9 +244,6 @@ h1 {
     background-color: var(--secondary-color);
     border-radius: 1em;
   }
-  aside a {
-    font-size: 1.8em;
-  }
   aside img {
     background: unset;
     cursor: unset;
@@ -255,11 +252,15 @@ h1 {
     margin-top: 0;
     display: flex;
     justify-content: space-around;
+    gap: 0.5em;
   }
   aside nav ul li {
     margin-bottom: 0;
     display: flex;
     align-items: center;
+  }
+  aside nav ul li a {
+    font-size: 1.2em;
   }
   aside nav ul li img {
     display: block !important;
