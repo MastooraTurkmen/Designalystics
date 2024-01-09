@@ -258,6 +258,7 @@ h1 {
     margin-bottom: 0;
     display: flex;
     align-items: center;
+    gap: 0.5em;
   }
   aside nav ul li a {
     font-size: 1.2em;
