@@ -231,4 +231,17 @@ h1 {
     align-items: center;
     gap: 2em;
   }
+  aside {
+    position: inherit;
+    height: auto;
+    background: unset;
+    padding: 2em;
+    width: auto;
+    margin-top: 2em;
+    transform: unset;
+    text-align: inherit;
+    transition: unset;
+    background-color: var(--secondary-color);
+    border-radius: 1em;
+  }
 }/*# sourceMappingURL=main.css.map */
