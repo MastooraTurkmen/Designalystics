@@ -346,4 +346,19 @@ h1 {
     color: white;
     border-radius: 0.3em;
   }
+  .premium header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .premium header h3 {
+    font-size: 1.6rem;
+    margin: 0;
+  }
+  .premium header img {
+    width: 20px;
+  }
+  .premium p {
+    line-height: 150%;
+  }
 }/*# sourceMappingURL=main.css.map */
