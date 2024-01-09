@@ -229,5 +229,21 @@ h1{
             background: unset;
             cursor: unset;
         }
+
+        nav ul{
+            margin-top: 0;
+            display: flex;
+            justify-content: space-around;
+
+            li{
+                margin-bottom: 0;
+                display: flex;
+                align-items: center;
+
+                img{
+                    display: block !important;
+                }
+            }
+        }
     }
 }
