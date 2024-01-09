@@ -65,14 +65,6 @@ header svg {
   width: 42px;
 }
 
-.user img {
-  width: 30px;
-  height: 30px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  border-radius: 50%;
-}
-
 .header-right {
   display: flex;
   align-items: center;
@@ -81,18 +73,26 @@ header svg {
 
 header.primary, .user {
   display: flex;
-  align-items: center;
   gap: 1em;
+  align-items: center;
+}
+
+.user img {
+  width: 30px;
+  height: 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
 }
 
 a.logo img {
   width: 170px;
 }
 
-/* Mobile Nav */
+/* Mobile Menu */
 aside {
   position: fixed;
-  z-index: 999;
+  z-index: 1;
   right: 0;
   top: 0;
   height: 100vh;
@@ -101,16 +101,16 @@ aside {
   padding: 3em;
   text-align: right;
   transition: transform 0.6s;
-  transform: translateX(0);
+  transform: translateX(100%);
 }
 aside a {
   color: white;
   font-size: 2.6rem;
 }
 aside img {
-  background: white;
   width: 30px;
   height: 30px;
+  background: white;
   border-radius: 0.3em;
   cursor: pointer;
 }
@@ -121,11 +121,11 @@ aside ul li {
   margin-bottom: 1.5em;
 }
 
-.toggole-menu {
+.toggle-menu {
   transform: translateX(0);
 }
 
-/* Sales Stats*/
+/* Sales Stats */
 .sales, .extra-stats {
   padding: 3.8em;
   color: white;
@@ -135,4 +135,38 @@ aside ul li {
 
 .sales {
   background: var(--primary-color);
+  position: relative;
+}
+.sales h2 {
+  font-size: 6.4rem;
+  margin: 0;
+}
+.sales .label {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+}
+.sales img {
+  position: absolute;
+  bottom: -45px;
+  right: -5px;
+  width: 300px;
+}
+
+.subtitle {
+  text-transform: uppercase;
+}
+
+/*Extra Stats*/
+.extra-stats {
+  padding: 3.8em 0;
+}
+.extra-stats ul {
+  display: flex;
+  justify-content: space-between;
+}
+.extra-stats ul strong {
+  font-size: 2.6rem;
+  margin-bottom: 0.2em;
+  display: block;
 }/*# sourceMappingURL=main.css.map */
