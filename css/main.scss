@@ -197,6 +197,11 @@ h1 {
         border-radius: .3em;
     }
 
-    
-        
+    .header-right nav {
+        display: flex;
+        align-items: center;
+        gap: 2em;
+    }
+
+
 }
