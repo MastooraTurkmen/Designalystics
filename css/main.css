@@ -169,4 +169,16 @@ aside ul li {
   font-size: 2.6rem;
   margin-bottom: 0.2em;
   display: block;
+}
+
+/*Earnings and Visitors*/
+h1 {
+  color: white;
+  font-size: 2.6rem;
+}
+
+.chart-container {
+  background: var(--secondry-color);
+  border-radius: 1em;
+  padding: 2.8em;
 }/*# sourceMappingURL=main.css.map */
