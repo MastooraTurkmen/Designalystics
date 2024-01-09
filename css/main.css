@@ -277,4 +277,10 @@ h1 {
   .earnings, .customers {
     grid-column: 1/3;
   }
+  .extra-stats ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 2em;
+  }
 }/*# sourceMappingURL=main.css.map */
