@@ -198,6 +198,9 @@ h1 {
 .customers ul li .cta-btn img {
   width: 50px;
   height: 50px;
+  padding: 1em;
+  background: var(--secondry-color);
+  border-radius: 0.3em;
 }
 .customers ul .user-left {
   display: flex;
