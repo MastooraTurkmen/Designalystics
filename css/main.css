@@ -222,6 +222,9 @@ h1 {
 @media only screen and (min-width: 620px) {
   .signout {
     display: block;
+    padding: 0.7em;
+    background-color: var(--secondary-color);
+    border-radius: 0.3em;
   }
   .header-right nav {
     display: flex;
