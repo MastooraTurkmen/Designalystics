@@ -216,7 +216,17 @@ h1 {
         background-color: var(--secondary-color);
         border-radius: 1em;
 
-      
+        a {
+            font-size: 1.8rem;
+        }
+    
+        img {
+            background: unset;
+            cursor: unset;
+        }
+
+    
+        
         
     }
 }
