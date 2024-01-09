@@ -155,12 +155,14 @@ aside ul li {
 
 .subtitle {
   text-transform: uppercase;
+  font-size: 1.6rem;
 }
 
-/*Extra Stats*/
+/* Extra Stats */
 .extra-stats {
   padding: 3.8em 0;
 }
+
 .extra-stats ul {
   display: flex;
   justify-content: space-between;
@@ -171,7 +173,7 @@ aside ul li {
   display: block;
 }
 
-/*Earnings and Visitors*/
+/* Earnings and Visitors */
 h1 {
   color: white;
   font-size: 2.6rem;
@@ -183,21 +185,21 @@ h1 {
   padding: 2.8em;
 }
 
-/*Custumers*/
+/* Customers */
 .customers ul {
   display: grid;
   margin-top: 2em;
   grid-template-columns: repeat(2, 1fr);
-  color: white;
   gap: 2em;
+  color: white;
 }
 .customers ul li {
   display: flex;
   justify-content: space-between;
 }
 .customers ul li .cta-btn img {
-  width: 24px;
-  height: 24px;
+  width: 50px;
+  height: 50px;
   padding: 1em;
   background: var(--secondary-color);
   border-radius: 0.3em;
@@ -214,7 +216,7 @@ h1 {
      object-fit: cover;
   border-radius: 50%;
 }
-.customers ul .user-left strong {
+.customers ul .user-info strong {
   display: block;
 }
 
@@ -235,14 +237,17 @@ h1 {
     position: inherit;
     height: auto;
     background: unset;
-    padding: 2em;
     width: auto;
+    padding: 2em;
     margin-top: 2em;
-    transform: unset;
     text-align: inherit;
+    transform: unset;
     transition: unset;
     background-color: var(--secondary-color);
     border-radius: 1em;
+  }
+  aside a {
+    font-size: 1.8rem;
   }
   aside img {
     background: unset;
@@ -252,16 +257,12 @@ h1 {
     margin-top: 0;
     display: flex;
     justify-content: space-around;
-    gap: 0.5em;
   }
   aside nav ul li {
     margin-bottom: 0;
     display: flex;
     align-items: center;
     gap: 0.5em;
-  }
-  aside nav ul li a {
-    font-size: 1.2em;
   }
   aside nav ul li img {
     display: block !important;

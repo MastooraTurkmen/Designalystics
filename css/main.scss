@@ -226,7 +226,22 @@ h1 {
         }
 
     
-        
+        nav ul {
+            margin-top: 0;
+            display: flex;
+            justify-content: space-around;
+    
+            li {
+                margin-bottom: 0;
+                display: flex;
+                align-items: center;
+                gap: .5em;
+
+                img {
+                    display: block !important;
+                }
+            }
+        }
         
     }
 }
