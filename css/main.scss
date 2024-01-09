@@ -189,3 +189,19 @@ h1{
         display: block;
     }
 }
+
+
+/* Tablet */
+
+
+@media only screen and (min-width: 620px) {
+    .signout{
+        display: block;
+    }
+    .header-right nav{
+        display: flex;
+        align-items: center;
+        gap: 2em;
+    }
+    
+}
