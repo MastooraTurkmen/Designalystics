@@ -290,6 +290,12 @@ h1 {
         min-width:250px;
         padding: 2em;
 
+        nav {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            height: 100%;
+        }
 
-
+        
 }
