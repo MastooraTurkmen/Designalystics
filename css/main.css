@@ -120,7 +120,7 @@ aside ul {
 aside ul li {
   margin-bottom: 1.5em;
 }
-aside ul li a {
-  color: white;
-  font-size: 2.6rem;
+
+.toggole-menu {
+  transform: translateX(0);
 }/*# sourceMappingURL=main.css.map */
