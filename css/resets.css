@@ -14,4 +14,9 @@ ul {
     padding: 0;
 }
   
+li, p, a {
+    font-size: 1.6rem;
+}
   
+  
+
