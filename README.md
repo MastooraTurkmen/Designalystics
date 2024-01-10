@@ -6,6 +6,8 @@ A wonderful CSS and HTML project which made by SCSS.
 
 ## Screenshots
 
+***1. Mobile***
+
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
