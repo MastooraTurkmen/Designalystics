@@ -27,3 +27,5 @@ and you can use for your projects.
 
 
 ## Languages and Tools are used 🗣️🔧
+
+1. **Languages** 🗣️
