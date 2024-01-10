@@ -19,6 +19,6 @@ and you can use for your projects.
 
 ***3. Desktop***
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Desktop Screenshot](image.png)
+![Desktop Screenshot](image-1.png)
 
