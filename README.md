@@ -14,8 +14,8 @@ and you can use for your projects.
 
 ***2. Tablet***
 
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+![Tablet Screenshot](./screenshots/tablet.png)
+![Tablet Screenshot](./screenshots/tablet-1.png)
 
 ***3. Desktop***
 
