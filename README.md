@@ -1,6 +1,7 @@
 # Designalytics Web Project
 
-A wonderful CSS and HTML project which made by SCSS. 
+A wonderful CSS and HTML project which made by SCSS and HTML5. This design is wonderful for sale projects
+and you can use for your projects.
 
 
 
