@@ -9,8 +9,8 @@ and you can use for your projects.
 
 ***1. Mobile***
 
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+![Mobile Screenshot](./screenshots/mobile.png)
+![Mobile Screenshot](./screenshots/mobile-1.png)
 
 ***2. Tablet***
 
