@@ -19,6 +19,6 @@ and you can use for your projects.
 
 ***3. Desktop***
 
-![Desktop Screenshot](image.png)
-![Desktop Screenshot](image-1.png)
+![Desktop Screenshot](./screenshots/desktop.png)
+![Desktop Screenshot](./screenshots/desktop-1.png)
 
