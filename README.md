@@ -37,3 +37,4 @@ and you can use for your projects.
     + [SCSS](https://github.com/topics/scss)
 
 2. **Tools** 🔧
+    + [Chrome](https://github.com/topics/chrome)
