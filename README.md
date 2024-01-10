@@ -7,3 +7,4 @@ A wonderful CSS and HTML project which made by SCSS.
 ## Screenshots
 
 ![Alt text](image.png)
+![Alt text](image-1.png)
