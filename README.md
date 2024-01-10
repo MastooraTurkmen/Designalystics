@@ -22,3 +22,8 @@ and you can use for your projects.
 ![Desktop Screenshot](./screenshots/desktop.png)
 ![Desktop Screenshot](./screenshots/desktop-1.png)
 
+
+------
+
+
+## Languages and Tools are used 🗣️🔧
