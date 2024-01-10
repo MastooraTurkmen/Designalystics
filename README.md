@@ -11,6 +11,8 @@ A wonderful CSS and HTML project which made by SCSS.
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
+***2. Tablet***
+
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 
