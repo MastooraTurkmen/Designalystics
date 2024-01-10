@@ -1,52 +1,51 @@
-html{
+html {
     font-size: 62.5%;
 }
-
-body{
+body {
     margin: 0;
     background-color: #1F2023;
     font-family: 'Inter', sans-serif;
 }
 
-.wrapper{
+.wrapper {
     margin: 2em;
 }
 
-ul{
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-
-li,
-p,
-a{
+li, p, a {
     font-size: 1.6rem;
 }
-
-
-a{
+a {
     color: var(--link-color);
     text-decoration: none;
     font-family: 'Inter', sans-serif;
 }
-
-p{
+p {
     font-size: 1.6em;
 }
 
-svg{
+svg {
     width: 100%;
 }
 
+*, *:before, *:after {
+    box-sizing: border-box;
+}
 
-.hide-mobile{
+/* Utils */ 
+
+.hide-mobile {
     display: none;
 }
 
+@media only screen and (min-width: 620px) {
 
-@media only screen and (min-width: 620px){
-    .hide-tablet{
-        display: none  ;
+    .hide-tablet {
+        display: none;
     }
+
 }
