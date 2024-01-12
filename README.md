@@ -44,3 +44,5 @@ and you can use for your projects.
 
 
 ## Deployment 📥
+
+1. How to deploy our project to the ***Netlify*** site?
