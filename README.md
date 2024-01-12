@@ -50,3 +50,4 @@ and you can use for your projects.
 3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
+6. After selecting here you can see that the project **_Review configuration for # Designalytics Web Project_**
