@@ -60,3 +60,5 @@ and you can use for your projects.
 ## Author 👩🏻‍💻
 
 **Mastoora Turkmen**
+
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
