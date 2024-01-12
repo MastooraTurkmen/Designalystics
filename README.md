@@ -63,3 +63,4 @@ and you can use for your projects.
 
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 [Github](https://github.com/MastooraTurkmen/) 
+[Twitter](https://twitter.com/MastooraJ22)
